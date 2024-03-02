@@ -1,4 +1,4 @@
-## Battle for the Wellspring
+### Battle for the Wellspring
  - [Onshu the Welkineye](https://renegadegamestudios.com/heroscape-bio-onshu)
  - [Kita the Springrunner](https://renegadegamestudios.com/heroscape-bio-kita-the-springrunner)
  - [Ewashia, Master of Tides](https://renegadegamestudios.com/heroscape-bio-ewashia-master-of-tides)
@@ -6,7 +6,7 @@
  - [Killian Vane III](https://renegadegamestudios.com/heroscape-bio-killian-vane)
  - [Bok-Bur-Na](https://renegadegamestudios.com/heroscape-bio-bok-bur-na)
 
-## Age of Annihilation Master Set
+### Age of Annihilation Master Set
 - [Raelin the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-raelin-the-kyrie-warrior)
 - [Xenithrax the Vineweaver](https://renegadegamestudios.com/heroscape-bio-xenithrax-the-vineweaver)
 - [Loviatäk the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-loviatak-the-kyrie-warrior)
@@ -19,6 +19,6 @@
 - [Exiles of the Sundered Sea](https://renegadegamestudios.com/heroscape-bio-exiles-sundered-sea)
 - [Knaves of the Silver Scimitar](https://renegadegamestudios.com/heroscape-bio-knaves-of-silver-scimitar)
 
-## Promo & Organized Play Figures
+### Promo & Organized Play Figures
 - [Sgt. Drake Alexander](https://renegadegamestudios.com/heroscape-bio-sgt-drake-alexander)
 - [Shiori](https://renegadegamestudios.com/heroscape-bio-shiori)
