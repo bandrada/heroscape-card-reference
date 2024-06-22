@@ -22,3 +22,25 @@
 ### Promo & Organized Play Figures
 - [Sgt. Drake Alexander](https://renegadegamestudios.com/heroscape-bio-sgt-drake-alexander)
 - [Shiori](https://renegadegamestudios.com/heroscape-bio-shiori)
+- [Cornelius Breech](https://renegadegamestudios.com/heroscape-bio-cornelius-breech)
+
+### Iron Lich Viscerot and the Necrowraith Riders Army Expansion
+- [Iron Lich Viscerot](https://renegadegamestudios.com/heroscape-bio-iron-lich-viscerot)
+- [Necrotech Wraithriders](https://renegadegamestudios.com/heroscape-bio-necrotech-wraithriders)
+
+### Kyrie Warriors Army Expansion
+- [Xiamara the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-xiamara-the-kyrie-warrior)
+- [Kilkorax the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-kilkorax-the-kyrie-warrior)
+- [Glinerva the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-glinerva-the-kyrie-warrior)
+- [Mielki the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-mielki-the-kyrie-warrior)
+- [Queen Qhyrion](https://renegadegamestudios.com/heroscape-bio-queen-qhyrion)
+
+
+
+
+
+
+
+
+_If there are issues with any links or you have suggestions feel free to open an issue here: [https://github.com/bandrada/heroscape-card-reference/issues](https://github.com/bandrada/heroscape-card-reference/issues)_
+
