@@ -35,3 +35,12 @@
 - [Mielki the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-mielki-the-kyrie-warrior)
 - [Queen Qhyrion](https://renegadegamestudios.com/heroscape-bio-queen-qhyrion)
 
+
+
+
+
+
+
+
+_If there are issues with any links or you have suggestions feel free to open an issue here: [https://github.com/bandrada/heroscape-card-reference/issues](https://github.com/bandrada/heroscape-card-reference/issues)_
+
