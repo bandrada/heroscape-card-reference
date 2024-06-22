@@ -22,3 +22,9 @@
 ### Promo & Organized Play Figures
 - [Sgt. Drake Alexander](https://renegadegamestudios.com/heroscape-bio-sgt-drake-alexander)
 - [Shiori](https://renegadegamestudios.com/heroscape-bio-shiori)
+- [Cornelius Breech](https://renegadegamestudios.com/heroscape-bio-cornelius-breech)
+
+### Iron Lich Viscerot and the Necrowraith Riders Army Expansion
+- [Iron Lich Viscerot](https://renegadegamestudios.com/heroscape-bio-iron-lich-viscerot)
+
+### Kyrie Warriors Army Expansion
