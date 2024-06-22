@@ -26,5 +26,12 @@
 
 ### Iron Lich Viscerot and the Necrowraith Riders Army Expansion
 - [Iron Lich Viscerot](https://renegadegamestudios.com/heroscape-bio-iron-lich-viscerot)
+- [Necrotech Wraithriders](https://renegadegamestudios.com/heroscape-bio-necrotech-wraithriders)
 
 ### Kyrie Warriors Army Expansion
+- [Xiamara the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-xiamara-the-kyrie-warrior)
+- [Kilkorax the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-kilkorax-the-kyrie-warrior)
+- [Glinerva the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-glinerva-the-kyrie-warrior)
+- [Mielki the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-mielki-the-kyrie-warrior)
+- [Queen Qhyrion](https://renegadegamestudios.com/heroscape-bio-queen-qhyrion)
+
