@@ -24,11 +24,11 @@
 - [Shiori](https://renegadegamestudios.com/heroscape-bio-shiori)
 - [Cornelius Breech](https://renegadegamestudios.com/heroscape-bio-cornelius-breech)
 
-### Iron Lich Viscerot and the Necrowraith Riders Army Expansion
+### Revna's Rebuke: Iron Lich Viscerot and the Necrowraith Riders Army Expansion
 - [Iron Lich Viscerot](https://renegadegamestudios.com/heroscape-bio-iron-lich-viscerot)
 - [Necrotech Wraithriders](https://renegadegamestudios.com/heroscape-bio-necrotech-wraithriders)
 
-### Kyrie Warriors Army Expansion
+### Revna's Rebuke: Kyrie Warriors
 - [Xiamara the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-xiamara-the-kyrie-warrior)
 - [Kilkorax the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-kilkorax-the-kyrie-warrior)
 - [Glinerva the Kyrie Warrior](https://renegadegamestudios.com/heroscape-bio-glinerva-the-kyrie-warrior)
